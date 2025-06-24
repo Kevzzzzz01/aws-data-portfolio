@@ -138,7 +138,6 @@ Welcome to my AWS project portfolio! This page includes all the projects I compl
 📸 Screenshots:  
 ![ETL Validation](images/week8_etl_flow.png)  
 ![Monitoring](images/week8_monitoring.png)  
-![QuickSight Final](images/week8_quicksight_final.png)
 
 ---
 
