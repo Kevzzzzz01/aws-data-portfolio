@@ -63,8 +63,7 @@ Welcome to my AWS project portfolio! This page includes all the projects I compl
 - Completed **Visual ETL design** for data flow understanding.
 - Validated data outputs using **AWS Athena** queries.
 
-📸 Screenshots:  
-![ETL Sheet](images/week4_etl_sheet.png)  
+📸 Screenshots:   
 ![Glue Catalog](images/week4_glue_catalog.png)  
 ![CloudWatch Alarm](images/week4_alarm.png)  
 ![Athena Validation](images/week4_athena.png)
