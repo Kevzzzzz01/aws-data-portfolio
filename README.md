@@ -113,9 +113,7 @@ Welcome to my AWS project portfolio! This page includes all the projects I compl
   - Used bar charts, tables, and filters to present insights interactively.
 
 📸 Screenshots:  
-![Glue Job](images/week7_glue_job.png)  
-![Glue Crawler](images/week7_crawler.png)  
-![Athena Query](images/week7_athena_query.png)  
+![Glue Job](images/week7_glue_job.png)    
 ![QuickSight Dashboard](images/week7_quicksight.png)
 
 ---
