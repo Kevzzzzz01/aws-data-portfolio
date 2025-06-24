@@ -160,7 +160,6 @@ Welcome to my AWS project portfolio! This page includes all the projects I compl
 📸 Screenshots:  
 ![ETL Review](images/week9_etl_review.png)  
 ![Athena Optimization](images/week9_athena_opt.png)  
-![QuickSight Reporting](images/week9_quicksight_report.png)
 
 ---
 
