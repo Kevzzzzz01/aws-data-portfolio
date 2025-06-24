@@ -89,8 +89,6 @@ Welcome to my AWS project portfolio! This page includes all the projects I compl
 📸 Screenshots:  
 ![Fishbone Diagram](images/week5_fishbone.png)  
 ![Solution Architecture](images/week5_architecture.png)  
-![S3 Buckets](images/week5_s3_buckets.png)  
-![Design Sheets](images/week5_design_sheet.png)
 
 ---
 
