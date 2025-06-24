@@ -334,7 +334,3 @@ This section showcases my progressive understanding of core AWS concepts and sol
 All modules are available as visual diagrams in my GitHub repo’s `/designs` and `/images` folders.
 
 
-## 🔗 Portfolio Website
-
-This portfolio is hosted on **GitHub Pages**. Link will be added here once activated.
-
